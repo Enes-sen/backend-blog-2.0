@@ -4,7 +4,7 @@
   "description": "mern backend",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": ["mern","backend","frontend","blog","deneme","javascript-frameworks","mongoose",
   "mongodb","express","react","react-redux","redux","redux-thunk","yazılım","node-js"],
